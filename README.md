@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreejith-p1" alt="sreejith-p1" /></a> </p>
 
-- 🌱 I’m currently Upskilling **Terraform & Ansible**
+- 🌱 I’m currently Upskilling **Terraform & AWS**
 
 - 💬 Ask me about **DevOps/SRE**
 
